@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="heading">ITZ QUIZ TIME !</string>
+    <string name="name">Enter the participant name here...</string>
+    <string name="start">Take Quiz</string>
+
+
+    <string name="question_1">1. The theme of 2017 World AIDS day (WAD)?</string>
+    <string name="question_1_option_1">Stop AIDS. Keep the Promise</string>
+    <string name="question_1_option_2">AIDS: Men Make a Difference</string>
+    <string name="question_1_option_3">Together we will end AIDS</string>
+    <string name="question_1_option_4">Right to health</string>
+
+    <string name="question_2">2. India\'s first crypto-currency exchange "Coinome" has launched by</string>
+    <string name="question_2_option_1">Instamojo</string>
+    <string name="question_2_option_2">Citrus Pay</string>
+    <string name="question_2_option_3">PayUMoney</string>
+    <string name="question_2_option_4">Billdesk</string>
+
+    <string name="question_3">3. Which of the following countries is/are  member of SAARC ?</string>
+    <string name="question_3_option_1">Bhutan</string>
+    <string name="question_3_option_2">Pakistan</string>
+    <string name="question_3_option_3">Maldives</string>
+    <string name="question_3_option_4">Mauritius</string>
+
+    <string name="question_4">4. Who won the gold medal at 2017 World Weightlifting Championship?</string>
+
+    <string name="question_5">5. Identify the following famous places.</string>
+
+    <string name="question_6">6. World\'s first AI Politician developed in</string>
+    <string name="question_6_option_1">New Zealand</string>
+    <string name="question_6_option_2">China</string>
+    <string name="question_6_option_3">US</string>
+    <string name="question_6_option_4">India</string>
+
+    <string name="question_7">7. Who is the governor of Reserve Bank of India (RBI)?</string>
+    <string name="question_7_option_1">Ajay Thyagi</string>
+    <string name="question_7_option_2">Raghuram Rajan</string>
+    <string name="question_7_option_3">Urjit Patel</string>
+    <string name="question_7_option_4">U K Sinha</string>
+
+    <string name="question_8">8. Which of the following countries do not have a written constitution?</string>
+    <string name="question_8_option_1">United Kingdom of Great Britain</string>
+    <string name="question_8_option_2">Israel</string>
+    <string name="question_8_option_3">Greece</string>
+    <string name="question_8_option_4">Iraq</string>
+
+    <string name="question_9">9. Identify the countries to which the following flags belong to.</string>
+
+    <string name="question_10">10. Which of the following countries are connected by the Palk Strait?</string>
+    <string name="question_10_option_1">North Korea</string>
+    <string name="question_10_option_2">South Korea</string>
+    <string name="question_10_option_3">Srilanka</string>
+    <string name="question_10_option_4">India</string>
+
+    <string name="submit">View Result</string>
+</resources>
