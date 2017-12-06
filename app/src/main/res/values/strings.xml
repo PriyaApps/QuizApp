@@ -24,8 +24,11 @@
     <string name="question_3_option_4">Mauritius</string>
 
     <string name="question_4">4. Who won the gold medal at 2017 World Weightlifting Championship?</string>
+    <string name="answer_4">Mirabai Chanu</string>
 
     <string name="question_5">5. Identify the following famous places.</string>
+    <string name="question_5_answer_1">Empire State</string>
+    <string name="question_5_answer_2">Mount Rushmore</string>
 
     <string name="question_6">6. World\'s first AI Politician developed in</string>
     <string name="question_6_option_1">New Zealand</string>
@@ -46,6 +49,8 @@
     <string name="question_8_option_4">Iraq</string>
 
     <string name="question_9">9. Identify the countries to which the following flags belong to.</string>
+    <string name="question_9_answer_1">Switzerland</string>
+    <string name="question_9_answer_2">Turkey</string>
 
     <string name="question_10">10. Which of the following countries are connected by the Palk Strait?</string>
     <string name="question_10_option_1">North Korea</string>
